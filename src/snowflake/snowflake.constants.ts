@@ -1,0 +1,1 @@
+export const SNOWFLAKE_OPTION = Symbol("SNOWFLAKE_OPTION");
